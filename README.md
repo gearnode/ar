@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This library provide reader and writer for GNU ar archive file.
+This library provides readers and writers with GNU ar archive files.
 
 ## Documentation
 
@@ -22,7 +22,7 @@ Please note that I do not currently review or accept any contribution.
 
 Released under the ISC license.
 
-Copyright (c) 2020-2022 Bryan Frimin <bryan@frimin.fr>.
+Copyright (c) 2022 Bryan Frimin <bryan@frimin.fr>.
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
