@@ -1,4 +1,4 @@
-module gearno.de/ar
+module go.gearno.de/archive/ar
 
 go 1.19
 
